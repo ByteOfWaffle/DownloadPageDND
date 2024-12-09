@@ -63,7 +63,7 @@ h1 {
 
 /* Download Button */
 .download-btn {
-    background-color: var(--purple-600);
+    background-color: #7c3aed;
     color: white;
     border: none;
     padding: 1.5rem 2rem;
@@ -78,7 +78,7 @@ h1 {
 }
 
 .download-btn:hover {
-    background-color: var(--purple-700);
+    background-color: #334155;
 }
 
 /* Game Stats */
