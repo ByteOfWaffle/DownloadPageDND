@@ -36,7 +36,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
     margin-bottom: 1.5rem;
 }
 
@@ -49,11 +48,6 @@ h1 {
     color: transparent;
 }
 
-.moon-icon {
-    width: 2.5rem;
-    height: 2.5rem;
-    color: #a78bfa;
-}
 
 .tagline {
     font-size: 1.25rem;
